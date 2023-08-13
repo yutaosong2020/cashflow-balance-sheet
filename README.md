@@ -6,7 +6,7 @@ A game sheet that does the calculations for you.
 
 ## Playing
 
-[Run it right now in your browser](https://nathanstrutz.github.io/cashflow-balance-sheet/)!
+[Run it right now in your browser](https://yutaosong2020.github.io/cashflow-balance-sheet/)!
 
 Did you...
 
@@ -63,5 +63,5 @@ git commit -m "Building"
 git subtree push --prefix dist origin gh-pages
 git checkout vue
 # ... wait about 2 minutes
-start "https://nathanstrutz.github.io/cashflow-balance-sheet/"
+start "https://yutaosong2020.github.io/cashflow-balance-sheet/"
 ```
