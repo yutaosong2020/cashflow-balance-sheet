@@ -48,7 +48,7 @@ export default {
   methods: {
     ...mapMutations(["RESET_STATE", "toRatRace", "toFastTrack"]),
     github() {
-      window.location.href = "https://github.com/NathanStrutz/cashflow-balance-sheet";
+      window.location.href = "https://github.com/yutaosong2020/cashflow-balance-sheet";
     },
     save() {
       alert(

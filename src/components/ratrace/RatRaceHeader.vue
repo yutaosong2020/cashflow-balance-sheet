@@ -1,8 +1,8 @@
 <template>
   <div>
     <header>
-      <title-input :value="profession" @input="changeProfession($event)" :tabindex="1">Profession</title-input>
       <title-input :value="player" @input="changePlayer($event)" :tabindex="2">Player</title-input>
+      <title-input :value="profession" @input="changeProfession($event)" :tabindex="1">Profession</title-input>
     </header>
     <p>
       Goal: To get out of the Rat Race and onto the Fast Track by building up your Passive Income to be greater than your Total Expenses
